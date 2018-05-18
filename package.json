@@ -1,0 +1,23 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "- Crear HTML base\r - Añadir Reset css\r - Crear el layout con css\r - Aplicar estilos (colores, fuente , borders)\r - Lógica de UI, funcionalidades:\r   -  Add Task\r       - Coger value del input cuando se apriete el botón\r       - Borrar el value del input\r       - Crear y añadir Div al DOM en listTasks\r   -  Remove Task\r       - Borrar el Div del DOM al apretar la X de borrar.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeeksHubsAcademy/project-tasks-equipo-2.git"
+  },
+  "author": "Darlington Ayakazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeeksHubsAcademy/project-tasks-equipo-2/issues"
+  },
+  "homepage": "https://github.com/GeeksHubsAcademy/project-tasks-equipo-2#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
